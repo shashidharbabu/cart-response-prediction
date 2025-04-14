@@ -44,8 +44,3 @@ This project builds an explainable machine learning pipeline to predict the effe
 - **Languages**: Python
 - **Libraries**: Pandas, NumPy, scikit-learn, XGBoost, SHAP, Matplotlib, Seaborn, BioPython
 - **Development**: Jupyter Notebooks
-
----
-
-## 📂 Project Structure
-
